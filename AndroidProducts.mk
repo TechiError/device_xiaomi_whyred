@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_whyred.mk
+    $(LOCAL_DIR)/infinity_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_whyred-user \
-    superior_whyred-userdebug \
-    superior_whyred-eng
+    infinity_whyred-user \
+    infinity_whyred-userdebug \
+    infinity_whyred-eng
