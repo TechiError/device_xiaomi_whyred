@@ -1,3 +1,6 @@
+# [Discontinued]
+
+
 The Redmi Note 5 Pro (codenamed _"whyred"_) are high-end mid-range smartphones from Xiaomi announced and released in February 2018.
 
 ## Device specifications
